@@ -1,0 +1,11 @@
+*.err
+*.txt
+.idea/
+checkpoint/
+*.pyc
+models/__pycache__/
+data/
+*.sbatch
+datasets/__pycache__/
+test_3d_model/
+test_motion_seq/
